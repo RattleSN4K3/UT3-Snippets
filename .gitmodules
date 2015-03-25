@@ -1,0 +1,6 @@
+[submodule "XUIConfigEmptyExt"]
+	path = XUIConfigEmptyExt
+	url = git@github.com:RattleSN4K3/UT3-Snippet-UI-ConfigSceneEmpty-External.git
+[submodule "XUIConfigEmptyInt"]
+	path = XUIConfigEmptyInt
+	url = git@github.com:RattleSN4K3/UT3-Snippet-UI-ConfigSceneEmpty-Integrated.git
