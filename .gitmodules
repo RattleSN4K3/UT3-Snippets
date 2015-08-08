@@ -4,3 +4,6 @@
 [submodule "XUIConfigEmptyInt"]
 	path = XUIConfigEmptyInt
 	url = git@github.com:RattleSN4K3/UT3-Snippet-UI-ConfigSceneEmpty-Integrated.git
+[submodule "XMutatorWeaponAdd"]
+	path = XMutatorWeaponAdd
+	url = git@github.com:RattleSN4K3/UT3-Snippet-Mutator-Weapons-AddNew.git
