@@ -3,10 +3,12 @@ A collection of UnrealScript snippets for UT3
 
 # Mutator
 
-## Mutator Weapons
+## Mutator Pickups
 
 * [XMutatorWeaponAdd](https://github.com/RattleSN4K3/UT3-Snippet-Mutator-Weapons-AddNew) --- [PC][[Latest release](https://github.com/RattleSN4K3/UT3-Snippet-Mutator-Weapons-AddNew/releases/latest)]  
   Add weapons to existing maps.
+* [XMutatorAmmoAdd](https://github.com/RattleSN4K3/UT3-Snippet-Mutator-Ammos-AddNew) --- [PC][[Latest release](https://github.com/RattleSN4K3/UT3-Snippet-Mutator-Ammos-AddNew/releases/latest)]         
+  Add ammo pickups to existing maps.
 
 # UI
 
