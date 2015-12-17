@@ -10,3 +10,6 @@
 [submodule "XMutatorAmmoAdd"]
 	path = XMutatorAmmoAdd
 	url = git@github.com:RattleSN4K3/UT3-Snippet-Mutator-Ammos-AddNew.git
+[submodule "MiscArrayOps"]
+	path = MiscArrayOps
+	url = git@github.com:RattleSN4K3/UC-MiscArrayOps

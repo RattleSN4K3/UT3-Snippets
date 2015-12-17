@@ -18,3 +18,8 @@ A collection of UnrealScript snippets for UT3
   External empty config Scene.
 * [XUIConfigEmptyInt](https://github.com/RattleSN4K3/UT3-Snippet-UI-ConfigSceneEmpty-Integrated) --- [PC|PS3][[Latest release](https://github.com/RattleSN4K3/UT3-Snippet-UI-ConfigSceneEmpty-Integrated/releases/latest)]  
   Integrated empty config Scene
+
+# Misc
+
+* [ArrayOps](https://github.com/RattleSN4K3/UC-MiscArrayOps)  
+  A set of Array operations (allowing to use inline expression to initialize array variables)
